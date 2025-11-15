@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["optional-peer-dep:__vite-optional-peer-dep:lute-connect:@txnlab/use-wallet"],
+  "sourcesContent": ["throw new Error(`Could not resolve \"lute-connect\" imported by \"@txnlab/use-wallet\". Is it installed?`)"],
+  "mappings": ";AAAA,MAAM,IAAI,MAAM,qFAAqF;",
+  "names": []
+}

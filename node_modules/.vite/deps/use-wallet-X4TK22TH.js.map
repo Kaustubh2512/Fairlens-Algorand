@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["optional-peer-dep:__vite-optional-peer-dep:@walletconnect/modal:@txnlab/use-wallet"],
+  "sourcesContent": ["throw new Error(`Could not resolve \"@walletconnect/modal\" imported by \"@txnlab/use-wallet\". Is it installed?`)"],
+  "mappings": ";AAAA,MAAM,IAAI,MAAM,6FAA6F;",
+  "names": []
+}
