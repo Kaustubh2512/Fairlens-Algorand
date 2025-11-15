@@ -60,21 +60,6 @@ FairLens is a production-ready blockchain-based transparent tender management sy
 - pip (Python package manager)
 - Git
 
-### One-Click Installation
-
-**Windows:**
-```cmd
-run-all.bat
-```
-
-**Mac/Linux:**
-```bash
-chmod +x run-all.sh
-./run-all.sh
-```
-
-Then open your browser to `http://localhost:5173`
-
 ### Manual Installation
 
 #### Backend Setup
